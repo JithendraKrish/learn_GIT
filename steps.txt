@@ -1,0 +1,11 @@
+add the necessary files
+
+git add filename
+
+git commit with msg
+
+git ad remote origin branchname link.git
+
+git push origin branhcname
+
+
